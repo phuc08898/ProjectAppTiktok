@@ -1,10 +1,7 @@
-
-import './App.css';
-import Button from '~/Conponents/Button';
 function App() {
   return (
     <div>
-      <Button/>
+      <h1>app tiktok</h1>
     </div>
   );
 }
